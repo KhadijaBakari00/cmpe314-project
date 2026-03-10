@@ -10,7 +10,7 @@
 | Student ID | Name | GitHub |
 |---|---|---|
 | 22201315 | Khadija Bakari Isa | [GitHub Profile]([https://github.com/](https://github.com/KhadijaBakari00)) |
-| 22100923 | Bandar Mohamed | [GitHub Profile](https://github.com/) |
+| 22100923 | Bandar Mohamed | [GitHub Profile](https://github.com/](https://github.com/Aiyabtw)) |
 | 22204973 | Aiya Bitabarova | [GitHub Profile](https://github.com/) |
 
 ---
