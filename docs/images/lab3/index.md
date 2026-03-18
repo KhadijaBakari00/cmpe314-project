@@ -54,8 +54,3 @@ The system sends notifications to customers when their order status changes.
 
 ![Use Case](../docs/usecase.png)
 
----
-
-## Lab Navigation
-
-[Open Lab 3](lab3/)
