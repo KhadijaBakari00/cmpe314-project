@@ -29,8 +29,8 @@ Administrators are responsible for managing the hotel booking system. They can a
 
 Additionally, the system automatically sends notifications to customers when there are any changes to their booking status.
 
----
-![usecasee png](https://github.com/user-attachments/assets/1c2d08e3-cec9-48b3-8dc3-abff2c4658a8)
+---<img width="1061" height="675" alt="Screenshot 2026-04-22 020828" src="https://github.com/user-attachments/assets/1ec28c93-58b1-4170-9f7b-ad61a984d87e" />
+
 
 
 ## Actors & Use Cases
