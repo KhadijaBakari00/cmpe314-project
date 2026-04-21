@@ -25,11 +25,11 @@ Registered customers can log in, add books to a shopping cart, and place orders.
 
 Administrators manage the bookstore’s inventory. They can add new books, update book details (price, stock quantity), and remove books that are out of print. Administrators also view and update order status (e.g., shipped, delivered).  
 
-The system sends notifications to customers when their order status changes.
-![usecase png](https://github.com/user-attachments/assets/f9d7ef72-738d-4df8-8687-5ea36c81f438)
+The system sends notifications to customers when their order status changes
 
 
----
+---<img width="1058" height="671" alt="Screenshot 2026-04-22 021111" src="https://github.com/user-attachments/assets/15e67359-385d-4b9f-b858-e5dbda767b71" />
+
 
 ## Actors & Use Cases
 
